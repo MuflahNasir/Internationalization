@@ -1,0 +1,9 @@
+{
+    "main.header.welcome": "Bienvenue",
+    "main.page.title": "{{title}} est en cours d'exécution!",
+    "main.page.section.languages.title": "Langages",
+    "main.page.section.languages.subtitle": "Essayons de changer de langue!",
+    "main.page.section.dropdown": "Sélectionner une langue",
+    "main.page.section.dropdown.english": "English",
+    "main.page.section.dropdown.french": "Français"
+  }

@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'dynamic-translations';
+  public changeLanguage(code) {
+    localStorage.setItem('locale', code.target.value);
+    window.location.reload();
+  }
 }
